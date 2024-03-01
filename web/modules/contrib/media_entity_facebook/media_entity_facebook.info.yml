@@ -1,0 +1,12 @@
+name: Media Entity Facebook
+description: 'Media entity source provider for embedding Facebook posts.'
+type: module
+package: Media
+core_version_requirement: ^9.3 || ^10
+dependencies:
+  - drupal:media
+
+# Information added by Drupal.org packaging script on 2024-01-12
+version: '4.0.3'
+project: 'media_entity_facebook'
+datestamp: 1705046119

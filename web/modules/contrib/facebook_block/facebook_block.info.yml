@@ -1,0 +1,11 @@
+name: Facebook Block
+type: module
+description: 'Facebook Block'
+core_version_requirement: ^8.9 || ^9 || ^10
+dependencies:
+  - drupal:block
+
+# Information added by Drupal.org packaging script on 2023-12-07
+version: '1.0.3'
+project: 'facebook_block'
+datestamp: 1701946391
